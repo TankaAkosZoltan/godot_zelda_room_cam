@@ -1,5 +1,5 @@
 # godot_zelda_room_cam
-Simple Zelda-styled room cam created in godot. Not intended for actual use, rather for showing the logic behind this particular method.
+Simple Zelda-styled room cam created in Godot 3.2. Not intended for actual use, rather for showing the logic behind this particular method.
 
 Hello,
 
